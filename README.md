@@ -1,2 +1,2 @@
 # Layer0 Space
-Cross-consensus asset swap based on LayerZero protocol
+Cross-consensus heterogeneous asset swap based on LayerZero messaging protocol and Polkadot XCM
